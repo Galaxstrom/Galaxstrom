@@ -2,7 +2,7 @@
 
 <div align="center">
 
-# 🔵 **Galaxstrom**
+# 🌌 **Galaxstrom**
 ### _Building Custom Software & Launchers for Modern Platforms_
 
 ![Free](https://img.shields.io/badge/Free-Yes-1E90FF?style=for-the-badge&logoColor=white)
